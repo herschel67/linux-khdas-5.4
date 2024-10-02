@@ -1,7 +1,0 @@
-# audio info  configuration
-#
-config AMLOGIC_AUDIO_INFO
-	tristate "Amlogic audio info support"
-	default n
-	help
-		support the amlogic audio info;

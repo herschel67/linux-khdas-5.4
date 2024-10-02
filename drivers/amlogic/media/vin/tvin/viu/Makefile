@@ -1,1 +1,0 @@
-$(MEDIA_MODULE_NAME)-$(CONFIG_AMLOGIC_MEDIA_VIUIN) += vin/tvin/viu/viuin.o

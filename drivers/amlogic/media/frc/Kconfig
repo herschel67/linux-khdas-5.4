@@ -1,9 +1,0 @@
-#
-# frame sync configuration
-#
-
-config AMLOGIC_MEDIA_FRC
-        bool "Amlogic FRC Support"
-        default n
-        help
-                Select to enable frc support

@@ -1,1 +1,0 @@
-$(MEDIA_MODULE_NAME)-$(CONFIG_AMLOGIC_MEDIA_MINFO) += info/media_info.o
